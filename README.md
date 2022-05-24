@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**ds12a/ds12a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am ds12a. Here are some things about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on competitive programming.
+- 🌱 I’m currently learning Rust.
+- 📫 How to reach me: Write an issue if you *really* want to reach me.
+- ⚡ Fun fact: I'm an AIME qualifier.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
+![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+
+#### Stats
+
+<a href="https://github.com/ds12a">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ds12a&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ds12a&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dracula" />
+</a>
