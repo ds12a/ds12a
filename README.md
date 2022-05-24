@@ -7,9 +7,6 @@ I am ds12a. Here are some things about me:
 - 📫 How to reach me: Write an issue if you *really* want to reach me.
 - ⚡ Fun fact: I'm an AIME qualifier.
 
-Website: https://ds12a.github.io/
-Blog: https://ds12a.github.io/blog/
-
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
@@ -19,7 +16,5 @@ Blog: https://ds12a.github.io/blog/
 
 #### Stats
 
-<a href="https://github.com/ds12a">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ds12a&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ds12a&hide_title=false&hide_border=true&layout=compact&langs_count=6&theme=dracula" />
-</a>
+![ds12a's GitHub stats](https://github-readme-stats.vercel.app/api?username=ds12a&show_icons=true&theme=codeSTACKr)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ds12a&layout=compact&theme=codeSTACKr)
