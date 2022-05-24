@@ -7,6 +7,9 @@ I am ds12a. Here are some things about me:
 - 📫 How to reach me: Write an issue if you *really* want to reach me.
 - ⚡ Fun fact: I'm an AIME qualifier.
 
+Website: https://ds12a.github.io/
+Blog: https://ds12a.github.io/blog/
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
