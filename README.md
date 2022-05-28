@@ -2,7 +2,7 @@
 
 I am ds12a. Here are some things about me:
 
-- 🔭 I’m currently working on competitive programming.
+- 🔭 I’m currently working on improving my understanding of algorithms.
 - 🌱 I’m currently learning Rust.
 - 📫 How to reach me: Write an issue if you *really* want to reach me.
 - ⚡ Fun fact: I'm an AIME qualifier.
