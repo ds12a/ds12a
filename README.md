@@ -19,7 +19,7 @@ I am ds12a. Here are some things about me:
 ![ds12a's GitHub stats](https://github-readme-stats.vercel.app/api?username=ds12a&show_icons=true&theme=codeSTACKr)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ds12a&layout=compact&theme=codeSTACKr)
 
-### Visitor Count!
+### Visitor Count! (since 1/13/23)
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/ds12a/count.svg" />
 </p>
