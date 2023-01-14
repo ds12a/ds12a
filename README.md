@@ -3,7 +3,7 @@
 I am ds12a. Here are some things about me:
 
 - 🔭 I’m currently working on improving my understanding of algorithms.
-- 🌱 I’m currently learning Rust.
+- 🌱 I’m currently learning Rust, ML, and some other interesting things.
 - 📫 How to reach me: Write an issue if you *really* want to reach me.
 - ⚡ Fun fact: I'm an AIME qualifier.
 
@@ -18,3 +18,8 @@ I am ds12a. Here are some things about me:
 
 ![ds12a's GitHub stats](https://github-readme-stats.vercel.app/api?username=ds12a&show_icons=true&theme=codeSTACKr)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ds12a&layout=compact&theme=codeSTACKr)
+
+### Visitor Count!
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/ds12a/count.svg" />
+</p>
