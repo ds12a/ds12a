@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=ds12a&style=for-the-badge&color=green)
+
 I am ds12a. Here are some things about me:
 
 - 🔭 I’m currently working on improving my understanding of algorithms.
